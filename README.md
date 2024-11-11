@@ -1,5 +1,4 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Denisson%20Pereira&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&color=87CEFA&fontColor=ffffff" />
-
 <h2 align="left">About Me</h2>
 
 ###
@@ -102,12 +101,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Denisson-Pereira/Denisson-Pereira/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
