@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Denisson%20Pereira&animation=fadeIn&desc=Desenvolvedor%20Full%20Stack&color=87CEFA&fontColor=ffffff" />
-<h2 align="left">About Me</h2>
+<h2 align="left">📝 About Me</h2>
 
 ###
 
@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">📈 Stats</h2>
 
 ###
 
@@ -20,11 +20,11 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">📚 Techs</h2>
 
 ###
 
-<h3 align="left">Backend</h3>
+<h3 align="left">🗄️ Backend</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="left">Frontend</h3>
+<h3 align="left">🖥️ Frontend</h3>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">Design</h3>
+<h3 align="left">🎨 Design</h3>
 
 ###
 
@@ -80,7 +80,7 @@
 
 ###
 
-<h3 align="left">Workstation Tools</h3>
+<h3 align="left">🔧 Workstation Tools</h3>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">📱 Social Media</h2>
 
 ###
 
